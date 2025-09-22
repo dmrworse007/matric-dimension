@@ -1,7 +1,7 @@
 # matric-dimension
 
 
-What the paper is about
+What the paper is about?
 
 The paper studies the Metric Dimension problem on graphs: given a graph 
 𝐺
