@@ -10,10 +10,10 @@ G and integer
 k, we ask if there is a set of at most 
 𝑘
 k vertices (called a resolving set) that “distinguishes” (in terms of distances) every pair of vertices in the graph. 
-arXiv
+
 
 They focus on parameterized complexity: how hard the problem is if you use some structural graph parameters (like feedback vertex set, pathwidth, etc.) rather than just the size of the resolving set. 
-arXiv
+
 
 Key results
 
