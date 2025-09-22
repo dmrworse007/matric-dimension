@@ -1,6 +1,6 @@
 # matric-dimension
-B.Tech project 
-....................................................................
+
+
 What the paper is about
 
 The paper studies the Metric Dimension problem on graphs: given a graph 
